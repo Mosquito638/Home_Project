@@ -1,0 +1,15 @@
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.csproj.AssemblyReference.cache
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.AssemblyInfoInputs.cache
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.AssemblyInfo.cs
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.csproj.CoreCompileInputs.cache
+C:\Users\mosqu\Desktop\Home Project\Home_Project\bin\Debug\net6.0\Home_Project.exe
+C:\Users\mosqu\Desktop\Home Project\Home_Project\bin\Debug\net6.0\Home_Project.deps.json
+C:\Users\mosqu\Desktop\Home Project\Home_Project\bin\Debug\net6.0\Home_Project.runtimeconfig.json
+C:\Users\mosqu\Desktop\Home Project\Home_Project\bin\Debug\net6.0\Home_Project.dll
+C:\Users\mosqu\Desktop\Home Project\Home_Project\bin\Debug\net6.0\Home_Project.pdb
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.dll
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\refint\Home_Project.dll
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.pdb
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\Home_Project.genruntimeconfig.cache
+C:\Users\mosqu\Desktop\Home Project\Home_Project\obj\Debug\net6.0\ref\Home_Project.dll

@@ -1,4 +1,4 @@
-Console.Clear(); 
+﻿Console.Clear(); 
 string[] arr = {"hellow","2",":-)", "345",}; 
 string[] newArr ={};
 for (int i = 0; i < arr.Length; i++)
